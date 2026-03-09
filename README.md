@@ -1,5 +1,5 @@
 # atividadetermometrolp1
-Estrutura do Repositório
+Estrutura do Repositório:
 Neste repositório, você encontrará as resoluções da atividade de Termômetro divididas por questões:
 
 Questão 01: Impressão de Números de 1 a N
